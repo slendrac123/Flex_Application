@@ -93,6 +93,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Flex.txt" />
+    <Content Include="flexTutorial-main\HacerArchivo.txt" />
+    <Content Include="flexTutorial-main\lex.yy.c" />
+    <Content Include="flexTutorial-main\test.exe" />
+    <Content Include="flexTutorial-main\test.tab.c" />
+    <Content Include="flexTutorial-main\test.tab.h" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -125,6 +130,10 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="flexTutorial-main\README.md" />
+    <Content Include="flexTutorial-main\test.l" />
+    <Content Include="flexTutorial-main\test.output" />
+    <Content Include="flexTutorial-main\test.y" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
